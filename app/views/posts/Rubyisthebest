@@ -1,0 +1,9 @@
+RubyMine is the best.
+
+This was typed into the Ruby on Rails thing:
+#RubyMine is the best:
+#Click and follow: want to see the source code of a function that's used in another function? Just click on the function and follow.
+#when working on a large team project, this will allow you to see who was the last person to write or change that function.
+#Run tests right from the spec. Simply click and rubymine will run teh test from that spec right in ruby mine.
+#Git compare, its really easy to compare your current file with the same file on a different branch. Even a previous version of that file on the same file.
+ 
