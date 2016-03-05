@@ -1,0 +1,36 @@
+ 
+A blog post:
+Today (04/02/2016):
+So we've began my first Villiers park  5 day residential. Launching into Kubuntu was interesting, we are doing this from booting into memory sticks.
+
+ With actually making the blog website I haven't been able to find how to launch ruby.
+
+Ruby on rails, according to Billy is  in demand so I'm hoping this language will be useful for me and I will actually be able to understand it!
+
+
+Billy's philosphy of being software development: Being lazy and problem solving
+Problem solving – the way you brake down a big problem into lots of smaller problems and tasks.
+E.g. to make a sandwhich is a lot of effort;
+telling yourself to first decide your filling,
+cut the bread you will always use,
+then putting in the filling.
+
+This is a far easier way to make a sandwhich.
+
+Being lazy – putting the least amount of work into something to do an excellent job.
+
+So don't go and make a super complex program when you only had to solve a simple task.
+
+Consider if being lazy with a solution now will mean twice as much work in a few weeks instead of a little bit of extra time now on the lazy solution you are tempted to do.
+
+Also, don't go about making a really fast and robust program now when you do not have to, this will save time.
+
+
+RubyMine is the best.
+
+This was typed into the Ruby on Rails thing:
+#RubyMine is the best:
+#Click and follow: want to see the source code of a function that's used in another function? Just click on the function and follow.
+#when working on a large team project, this will allow you to see who was the last person to write or change that function.
+#Run tests right from the spec. Simply click and rubymine will run teh test from that spec right in ruby mine.
+#Git compare, its really easy to compare your current file with the same file on a different branch. Even a previous version of that file on the same file.
